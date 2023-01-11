@@ -1,0 +1,56 @@
+.imagem {
+  width: 54px;
+  border-radius: 100%;
+}
+.estrelinha {
+  width: 10px;
+  margin-right: 3px;
+}
+.nome {
+  font-size: 18px;
+  font-weight: bold;
+  vertical-align: top;
+  color: gray;
+}
+.categoria {
+  vertical-align: middle;
+}
+.frete {
+  vertical-align: baseline;
+}
+.restaurante {
+  padding: 10px;
+  border-color: gray;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  margin: 20px;
+  flex-grow: 1;
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  box-shadow: 0px 5px 7px #81007c69;
+}
+.cordonome {
+  color: #5c5b58;
+}
+.linha {
+  display: flex;
+  flex-direction: row;
+}
+.dados {
+  flex-direction: column;
+  display: flex;
+  margin-left: 10px;
+}
+.avaliacao,
+.frete {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 14px;
+  color: gray;
+}
+.geral {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}

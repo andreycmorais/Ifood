@@ -1,0 +1,12 @@
+<svg
+  class="toggle-chip__icon-right"
+  width="20"
+  height="20"
+  viewBox="0 0 20 20"
+  fill="#717171"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <rect width="12" height="1.5" rx=".75" fill="#717171" y="5.25" x="4"></rect>
+  <rect y="9.25" width="9" height="1.5" rx=".75" fill="#717171" x="4"></rect>
+  <rect y="13.25" width="7" height="1.5" rx=".75" fill="#717171" x="4"></rect>
+</svg>
